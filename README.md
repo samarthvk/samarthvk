@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samarthvk
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Information Science and Engineering
+- 📫 How to reach me samarth.kamatagi@gmail.com
